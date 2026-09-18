@@ -1,4 +1,10 @@
-# {{COMPANY_NAME}} HubSpot Import Templates — Reference
+---
+name: templates
+description: >
+  Source of truth for the two official templates. The script `scripts/format_import.py` encodes all of this; edit both together if HubSpot's templates change. | Type | Hex fill | Meaning | Use this skill when working with templates tasks or workflows.
+---
+
+# Enterprise Platform HubSpot Import Templates — Reference
 
 Source of truth for the two official templates. The script `scripts/format_import.py`
 encodes all of this; edit both together if HubSpot's templates change.
